@@ -1,1 +1,1 @@
-# solr-example-core
+# SOLR example core
